@@ -1,0 +1,259 @@
+{
+	"overwriteSPT_Drawer": true,
+	"overwriteSPT_CashRegister": true,
+	"overwriteSPT_PCBlock": true,
+	"overwriteSPT_Jacket": true,
+	"overwriteSPT_Toolbox": true,
+	"overwriteSPT_Medcase": true,
+	"overwriteSPT_Safe": true,
+	"overwriteSPT_Weaponbox5x5": true,
+	"overwriteSPT_Weaponbox5x2": true,
+	"overwriteSPT_Sportsbag": true,
+	"overwriteSPT_Weaponbox6x3": true,
+	"overwriteSPT_Weaponbox4x4": true,
+	"overwriteSPT_Grenadebox": true,
+	"overwriteSPT_PlasticSuitcase": true,
+	"overwriteSPT_MedbagSMU06": true,
+	"overwriteSPT_WoodenCrate": true,
+	"overwriteSPT_MedicalSupplyCrate": true,
+	"overwriteSPT_TechnicalSupplyCrate": true,
+	"overwriteSPT_DeadScav": true,
+	"overwriteSPT_GroundCache": true,
+	"overwriteSPT_BurriedBarrelCache": true,
+	"overwriteSPT_WoodenAmmobox": true,
+	"overwriteSPT_JacketDorms114": true,
+	"overwriteSPT_JacketMachineryKey": true,
+	"overwriteSPT_RationSupplyCrate": true,
+	"overwriteSPT_JacketDorms204": true,
+	"overwriteSPT_CommonFundStash": true,
+	"overwriteSPT_CashRegisterTAR": true,
+	"overwriteSPT_BankCashRegister": true,
+	"overwriteSPT_BankSafe": true,
+	"overwriteSPT_PMCBody": true,
+	"overwriteSPT_DeadCivilian": true,
+	"overwriteSPT_ScavBody": true,
+	"overwriteSPT_LabTechnicianBody": true,
+	"highTierContainerAssignmentBySlotValue": true,
+	"container_CommonFundStash_MinValuePerSlot": 22000,
+	"container_CommonFundStash_MaxValuePerSlot": 1660000,
+	"container_WeaponBox5x5_MinValuePerSlot": 12000,
+	"container_WeaponBox5x5_MaxValuePerSlot": 1660000,
+	"container_WeaponBox6x3_MinValuePerSlot": 7000,
+	"container_WeaponBox6x3_MaxValuePerSlot": 400000,
+	"slotOption_alwaysInclude_Weapons": true,
+	"slotOption_alwaysInclude_Weapons_MinValue": 18000,
+	"slotOption_alwaysInclude_BodyArmor": true,
+	"slotOption_alwaysInclude_BodyArmor_MinValue": 1000,
+	"slotOption_alwaysInclude_TacticalRigs": true,
+	"slotOption_alwaysInclude_TacticalRigs_MinValue": 25000,
+	"container_CommonFundStash_MinValuePerItem": 30000,
+	"container_CommonFundStash_MaxValuePerItem": 1660000,
+	"container_WeaponBox5x5_MinValuePerItem": 12000,
+	"container_WeaponBox5x5_MaxValuePerItem": 1660000,
+	"container_WeaponBox6x3_MinValuePerItem": 7000,
+	"container_WeaponBox6x3_MaxValuePerItem": 400000,
+	"itemsDistribution_Drawer":[
+		"1","0"
+	],
+	"itemsDistributionProbabilities_Drawer":[
+		"2761721","11522"
+	],
+	"itemsDistribution_CashRegister":[
+		"2","1","0"
+	],
+	"itemsDistributionProbabilities_CashRegister":[
+		"234460","235420","41812"
+	],
+	"itemsDistribution_PCBlock":[
+		"2","1","0"
+	],
+	"itemsDistributionProbabilities_PCBlock":[
+		"292751","293062","2142"
+	],
+	"itemsDistribution_Jacket":[
+		"1","0"
+	],
+	"itemsDistributionProbabilities_Jacket":[
+		"802124","198"
+	],
+	"itemsDistribution_Toolbox":[
+		"1","2","3"
+	],
+	"itemsDistributionProbabilities_Toolbox":[
+		"23191","273321","271944"
+	],
+	"itemsDistribution_Medcase":[
+		"2","3","1"
+	],
+	"itemsDistributionProbabilities_Medcase":[
+		"36075","35602","3815"
+	],
+	"itemsDistribution_Safe":[
+		"5","3","1","2","4"
+	],
+	"itemsDistributionProbabilities_Safe":[
+		"22842","28388","2785","27247","28579"
+	],
+	"itemsDistribution_Weaponbox5x5":[
+		"5","3","4","6"
+	],
+	"itemsDistributionProbabilities_Weaponbox5x5":[
+		"20285","20691","21281","20231"
+	],
+	"itemsDistribution_Weaponbox5x2":[
+		"1","5","2","4","3"
+	],
+	"itemsDistributionProbabilities_Weaponbox5x2":[
+		"9432","43963","91114","84793","93946"
+	],
+	"itemsDistribution_Sportsbag":[
+		"2","3","1","4"
+	],
+	"itemsDistributionProbabilities_Sportsbag":[
+		"388472","382443","4059","1127"
+	],
+	"itemsDistribution_Weaponbox6x3":[
+		"6","4","3","5"
+	],
+	"itemsDistributionProbabilities_Weaponbox6x3":[
+		"40535","46209","44375","40529"
+	],
+	"itemsDistribution_Weaponbox4x4":[
+		"4","8","2","3","6","7","5","10","9","1"
+	],
+	"itemsDistributionProbabilities_Weaponbox4x4":[
+		"44834","26194","35622","39738","39752","35534","41633","336","12353","5678"
+	],
+	"itemsDistribution_Grenadebox":[
+		"2","3","1"
+	],
+	"itemsDistributionProbabilities_Grenadebox":[
+		"78386","78039","7488"
+	],
+	"itemsDistribution_PlasticSuitcase":[
+		"3","2","1","4"
+	],
+	"itemsDistributionProbabilities_PlasticSuitcase":[
+		"23616","23859","2104","21117"
+	],
+	"itemsDistribution_MedbagSMU06":[
+		"3","1","2"
+	],
+	"itemsDistributionProbabilities_MedbagSMU06":[
+		"48227","4285","48421"
+	],
+	"itemsDistribution_WoodenCrate":[
+		"2","1","4","3"
+	],
+	"itemsDistributionProbabilities_WoodenCrate":[
+		"229672","68113","188113","260999"
+	],
+	"itemsDistribution_MedicalSupplyCrate":[
+		"2","5","4","3"
+	],
+	"itemsDistributionProbabilities_MedicalSupplyCrate":[
+		"10104","10185","10197","10253"
+	],
+	"itemsDistribution_TechnicalSupplyCrate":[
+		"5","4","3"
+	],
+	"itemsDistributionProbabilities_TechnicalSupplyCrate":[
+		"27564","27311","27557"
+	],
+	"itemsDistribution_DeadScav":[
+		"1","4","3","2","5","6"
+	],
+	"itemsDistributionProbabilities_DeadScav":[
+		"8843","82951","83994","81557","60043","589"
+	],
+	"itemsDistribution_GroundCache":[
+		"5","2","3","4","1","6"
+	],
+	"itemsDistributionProbabilities_GroundCache":[
+		"26520","33525","36643","36181","3393","11880"
+	],
+	"itemsDistribution_BurriedBarrelCache":[
+		"3","1","2","4","5"
+	],
+	"itemsDistributionProbabilities_BurriedBarrelCache":[
+		"57771","5617","54217","54131","37357"
+	],
+	"itemsDistribution_WoodenAmmobox":[
+		"2","1","3","4"
+	],
+	"itemsDistributionProbabilities_WoodenAmmobox":[
+		"34270","4469","33912","33960"
+	],
+	"itemsDistribution_JacketDorms114":[
+		"1"
+	],
+	"itemsDistributionProbabilities_JacketDorms114":[
+		"3837"
+	],
+	"itemsDistribution_JacketMachineryKey":[
+		"1"
+	],
+	"itemsDistributionProbabilities_JacketMachineryKey":[
+		"3837"
+	],
+	"itemsDistribution_RationSupplyCrate":[
+		"4","6","5","2","3","7"
+	],
+	"itemsDistributionProbabilities_RationSupplyCrate":[
+		"13283","13132","13246","12982","13000","13016"
+	],
+	"itemsDistribution_JacketDorms204":[
+		"1"
+	],
+	"itemsDistributionProbabilities_JacketDorms204":[
+		"1"
+	],
+	"itemsDistribution_CommonFundStash":[
+		"7","9","8","6","5"
+	],
+	"itemsDistributionProbabilities_CommonFundStash":[
+		"421","320","148","465","640"
+	],
+	"itemsDistribution_CashRegisterTAR":[
+		"4","3","1","0","2"
+	],
+	"itemsDistributionProbabilities_CashRegisterTAR":[
+		"57560","58445","57793","55569","57817"
+	],
+	"itemsDistribution_BankCashRegister":[
+		"4","5","7","8","9","6"
+	],
+	"itemsDistributionProbabilities_BankCashRegister":[
+		"1122","1203","1173","1112","1153","1137"
+	],
+	"itemsDistribution_BankSafe":[
+		"8","11","15","14","13","16","12","10","9"
+	],
+	"itemsDistributionProbabilities_BankSafe":[
+		"801","802","738","714","830","765","763","718","769"
+	],
+	"itemsDistribution_PMCBody":[
+		"2","3","4","5"
+	],
+	"itemsDistributionProbabilities_PMCBody":[
+		"58917","61072","61111","53054"
+	],
+	"itemsDistribution_DeadCivilian":[
+		"2","3","4","5"
+	],
+	"itemsDistributionProbabilities_DeadCivilian":[
+		"19420","20040","19786","19530"
+	],
+	"itemsDistribution_ScavBody":[
+		"1"
+	],
+	"itemsDistributionProbabilities_ScavBody":[
+		"1"
+	],
+	"itemsDistribution_LabTechnicianBody":[
+		"1"
+	],
+	"itemsDistributionProbabilities_LabTechnicianBody":[
+		"1"
+	]
+}

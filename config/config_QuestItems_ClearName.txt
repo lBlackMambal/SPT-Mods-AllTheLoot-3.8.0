@@ -1,0 +1,182 @@
+==================================================
+==================================================
+5.56x45 Magpul PMAG D-60 STANAG 60-round magazine
+5.56x45 SureFire MAG5-60 STANAG 60-round magazine
+9x39 SR3M.130 30-round magazine
+Aimpoint Micro Standard Mount
+Aimpoint Micro T-1 reflex sight
+AK-12 5.45x39 30-round magazine
+AK-74 5.45x39 6L31 60-round magazine
+AK-74M/AK-100 Zenit PT Lock
+AK 100-series polymer handguard
+AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine
+AK 7.62x39 ProMag AK-A-16 73-round drum magazine
+AK AKademia Bastion dust cover
+AK bakelite pistol grip (6P1 Sb.8V)
+AK CNC Warrior 5.56x45 muzzle device adapter
+AK CSS knurled charging handle
+AK GP-25 accessory kit recoil pad
+AK Magpul MOE AKM handguard (Black)
+AK Magpul MOE AKM handguard (FDE)
+AK Magpul MOE AKM handguard (Stealth Gray)
+AK Magpul MOE pistol grip (Black)
+AK TAPCO SAW-Style pistol grip (Black)
+AK TAPCO SAW-Style pistol grip (FDE)
+AK Zenit B-10M handguard with B-19 upper mount
+AK Zenit B-30 handguard with B-31S upper handguard rail
+AK Zenit B-33 dust cover
+AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake-compensator
+AK Zenit PT-1 "Klassika" stock
+AK Zenit PT-3 "Klassika" stock
+AK Zenit RK-3 pistol grip
+AKM Zenit DTK-4M 7.62x39 sound suppressor
+AKM/AK-74 Magpul Zhukov-S stock
+AKS-74U Zenit B-11 handguard
+AKS-74/AKS-74U Zenit PT Lock
+Alexander Arms 10 inch rail
+AN/PEQ-15 tactical device
+AR-10 7.62x51 KAC 10-round steel magazine
+AR-10 Daniel Defense WAVE 7.62x51 muzzle brake
+AR-10 KAC QDC 7.62x51 Flash Suppressor Kit
+AR-10 KAC QDC 7.62x51 Muzzle Brake Kit
+AR-10 Noveske SWS N6 Split handguard
+AR-10 Odin Works ATLAS-7 7.62x51 muzzle brake
+AR-15 5.56x45 260mm barrel
+AR-15 Alexander Arms MK10 rifle length handguard
+AR-15 Colt Carbine buffer tube
+AR-15 Daniel Defense MK12 Low Profile Gas Block
+AR-15 F1 Firearms Skeletonized Style 1 pistol grip
+AR-15 F1 Firearms Skeletonized Style 2 pistol grip
+AR-15 FAB Defense GL-SHOCK buttstock
+AR-15 Ferfrans CQB 5.56x45 muzzle brake
+AR-15 High Standard M4SS Stock
+AR-15 HK E1 buttstock
+AR-15 HK Ergo PSG-1 style pistol grip
+AR-15 KAC QDC 5.56x45 Flash Suppressor Kit
+AR-15 KRISS Defiance DS150 stock (Black)
+AR-15 KRISS Defiance DS150 stock (FDE)
+AR-15 Magpul MIAD pistol grip (FDE)
+AR-15 Magpul MOE pistol grip (Black)
+AR-15 Magpul MOE pistol grip (FDE)
+AR-15 Magpul MOE SL carbine length M-LOK handguard
+AR-15 Magpul PRS GEN3 stock (Black)
+AR-15 Magpul UBR GEN2 stock (Black)
+AR-15 Naroh Arms GRAL-S pistol grip
+AR-15 SureFire SF3P 5.56x45 Flash hider
+AR-15 SureFire SF4P 5.56x45 flash hider
+AR-15 SureFire WarComp 5.56x45 flash hider
+AR-15 Tactical Dynamics Skeletonized pistol grip
+AR-15 TROY M7A1 PDW stock (Black)
+AR-15 Windham Weaponry Rail Gas Block
+AS VAL Rotor 43 pistol grip & buffer tube
+BCM GUNFIGHTER MOD 3 vertical foregrip
+Burris FastFire 3 reflex sight
+Burris FastFire Weaver Base
+Daniel Defense WAVE QD sound suppressor
+ELCAN SpecterDR 1x/4x scope
+EOTech EXPS3 holographic sight (Tan)
+EOTech HHS-1 hybrid sight
+Ferfrans CRD 5.56x45 Concussion Reduction Device
+Fortis Shift tactical foregrip
+GK-02 12ga muzzle brake
+Glock 9x19 "Big Stick" 33-round magazine
+Glock GTL 21 tactical flashlight with laser
+HK 416A5 5.56x45 11 inch barrel
+HK 416A5 Midwest Industries 9 inch M-LOK handguard
+HK MP5 9x19 X Products X-5 50-round drum magazine
+HK MP5SD 9x19 sound suppressor
+HK MP5SD 9x19 upper receiver
+HK MP5SD B&T tri-rail ring mount
+HK MP5SD polymer handguard
+Holosun LS321 Tactical device
+IEA Mil-Optics KH/F 34mm one-piece magmount
+KAC Folding front sight
+KAC Folding rear sight
+KAC PRS/QDC 7.62x51 sound suppressor
+KAC QDSS NT-4 5.56x45 sound suppressor (FDE)
+KAC vertical foregrip
+Kiba Arms Short Mount sight adapter
+Kiba Arms Short Prism 2.5x scope
+KRISS Vector 9x19 6 inch barrel
+KRISS Vector Mk.5 modular rail
+KRISS Vector non-folding stock adapter
+LA-5B/PEQ tactical device
+Leapers UTG 25mm ring scope mount
+Lobaev Arms 30mm scope mount
+M14 Leapers UTG 4-Point Locking Deluxe mount
+M14 UltiMAK M8 Forward Optic mount
+M1A ProMag Archangel chassis
+M700 AB Arms MOD*X GEN 3 chassis
+M700 AB Arms MOD*X GEN 3 KeyMod handguard
+M700 AB Arms MOD*X rail mount
+M870 12ga 508mm barrel
+M870 Magpul MOE handguard
+M870 Magpul SGA polymer stock
+Magpul M-LOK AFG tactical foregrip (Black)
+Magpul AFG tactical foregrip (Olive Drab)
+Magpul M-LOK 2.5 inch rail
+Magpul M-LOK 4.1 inch rail
+Magpul M-LOK Cantilever Mount
+Magpul RVG foregrip (Black)
+March Tactical 3-24x42 FFP 30mm riflescope
+ME Cylinder 12ga muzzle adapter
+Mk47 409mm barrel
+MP-133/153 plastic pistol grip
+MP-133 custom plastic forestock with rails
+NcSTAR MPR45 Backup mount
+NcSTAR Tactical blue laser LAM-module
+Nightforce ATACR 7-35x56 34mm riflescope
+NPZ USP-1 "Tyulpan" 4x scope
+NPZ USP-1 scope eyecup
+NSPU-M 3.5x dovetail night vision scope
+P226 9x19 20-round extended magazine
+P226 9x19 threaded barrel
+P226 Stainless Elite pistol slide
+P226 Stainless Elite Wooden pistol grip
+P226 TJ's Custom 9x19 compensator
+PK Zenit B-50 handguard
+PK Zenit DTK-1P 7.62x54R muzzle brake
+PK Zenit PT-2 "Klassika" stock
+PKM 7.62x54R 658mm barrel
+Recknagel Era-Tac 34mm ring scope mount
+Remington RAHG 4 inch rail
+RPK-16 buffer tube
+Rotor 43 7.62x39 muzzle brake-compensator
+Rotor 43 7.62x54R muzzle brake-compensator
+Schmidt & Bender PM II 5-25x56 34mm riflescope
+SIG Sauer ROMEO7 1x30 reflex sight (Prototype)
+SilencerCo Hybrid 46 Direct Thread Mount adapter
+SilencerCo Hybrid 46 multi-caliber sound suppressor
+SilencerCo Osprey 9 9x19 sound suppressor
+SKS 7.62x39 ProMag SKS-A5 20-round magazine
+SKS Hexagon 7.62x39 sound suppressor
+SKS TAPCO Intrafuse buffer tube
+SKS TAPCO Intrafuse chassis
+SKS TAPCO Intrafuse kit SAW-Style pistol grip
+SKS Weapon Tuning 7.62x39 thread adapter
+SLR-106/AK 5.56x45 Circle 10 30-round magazine
+Stark SE-5 Express Forward foregrip
+Steiner DBAL-PL tactical device
+Steiner LAS/TAC 2 tactical flashlight
+SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor
+SureFire SOCOM556-RC2 5.56x45 sound suppressor
+SVD SAG MK1 chassis
+SVDS custom cut dust cover
+SVDS Lynx Arms Hinge buffer tube adapter
+SVDS Rotor 43 thread adapter
+Tactical Dynamics Skeletonized Foregrip
+Trijicon ACOG TA11D 3.5x35 scope
+Trijicon REAP-IR scope eyecup
+Trijicon TA51 sight mount
+UNV DLOC-IRD sight mount
+VOMZ Pilad 4x32 24.5mm riflescope
+Vortex Razor AMG UH-1 holographic sight
+VSS/VAL TOZ 6P29M mount
+VSS/VAL Zenit B-3 mount combo
+VSS/VAL Zenit B-3 ring mount
+Yankee Hill Annihilator multi-caliber flash hider
+Zenit Klesch-2IKS IR illuminator with laser
+Zenit Klesch-2U tactical flashlight
+Zenit RK-0 tactical foregrip
+==================================================
+==================================================

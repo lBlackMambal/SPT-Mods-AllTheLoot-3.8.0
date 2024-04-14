@@ -1,0 +1,192 @@
+==================================================
+==================================================
+.338 Lapua Magnum AP
+.338 Lapua Magnum AP ammo pack (20 pcs)
+.338 Lapua Magnum FMJ
+.338 Lapua Magnum FMJ ammo pack (20 pcs)
+.338 Lapua Magnum TAC-X
+.338 Lapua Magnum TAC-X ammo pack (20 pcs)
+.366 TKM AP-M
+.366 TKM AP-M ammo pack (20 pcs)
+.45 ACP AP
+.45 ACP AP ammo pack (50 pcs)
+.45 ACP Match FMJ
+.45 ACP Match FMJ ammo pack (50 pcs)
+4.6x30mm AP SX
+4.6x30mm AP SX ammo pack (40 pcs)
+4.6x30mm Subsonic SX
+4.6x30mm Subsonic SX ammo pack (40 pcs)
+5.45x39mm BP gs
+5.45x39mm BP gs ammo pack (120 pcs)
+5.45x39mm BS gs
+5.45x39mm BS gs ammo pack (120 pcs)
+5.45x39mm BT gs
+5.45x39mm BT gs ammo pack (120 pcs)
+5.56x45mm M855A1
+5.56x45mm M855A1 ammo pack (50 pcs)
+5.56x45mm M856A1
+5.56x45mm M856A1 ammo pack (50 pcs)
+5.56x45mm M995
+5.56x45mm M995 ammo pack (50 pcs)
+5.56x45mm SSA AP
+5.56x45mm SSA AP ammo pack (50 pcs)
+5.7x28mm SS190
+5.7x28mm SS190 ammo pack (50 pcs)
+5.7x28mm SB193
+5.7x28mm SB193 ammo pack (50 pcs)
+6.8x51mm SIG Hybrid
+7.62x39mm BP gzh
+7.62x39mm BP gzh ammo pack (20 pcs)
+7.62x39mm MAI AP
+7.62x39mm MAI AP ammo pack (20 pcs)
+7.62x39mm PP gzh
+7.62x39mm PP gzh ammo pack (20 pcs)
+7.62x51mm M61
+7.62x51mm M61 ammo pack (20 pcs)
+7.62x51mm M62 Tracer
+7.62x51mm M62 Tracer ammo pack (20 pcs)
+7.62x51mm M80
+7.62x51mm M80 ammo pack (20 pcs)
+7.62x51mm M993
+7.62x51mm M993 ammo pack (20 pcs)
+7.62x54mm R BS gs
+7.62x54mm R BT gzh
+7.62x54mm R BT gzh ammo pack (20 pcs)
+7.62x54mm R SNB gzh
+7.62x54mm R SNB gzh ammo pack (20 pcs)
+9x18mm PM PBM gzh
+9x18mm PM PBM gzh ammo pack (50 pcs)
+9x19mm AP 6.3
+9x19mm AP 6.3 ammo pack (50 pcs)
+9x19mm PBP gzh
+9x19mm RIP
+9x19mm RIP ammo pack (20 pcs)
+9x21mm 7N42 "Zubilo"
+9x21mm 7N42 ammo pack (30 pcs)
+9x21mm BT gzh
+9x39mm BP gs
+9x39mm SPP gs
+12.7x55mm PS12B
+12/70 6.5mm Express buckshot
+12/70 6.5mm Express buckshot ammo pack (25 pcs)
+12/70 7mm buckshot
+12/70 7mm buckshot ammo pack (25 pcs)
+12/70 8.5mm Magnum buckshot
+12/70 8.5mm Magnum buckshot ammo pack (25 pcs)
+12/70 AP-20 armor-piercing slug
+12/70 flechette
+12/70 flechette ammo pack (25 pcs)
+5.56x45 Magpul PMAG D-60 STANAG 60-round magazine
+5.56x45 SureFire MAG5-60 STANAG 60-round magazine
+AK 7.62x39 US Palm "AK30" 30-round magazine (Black)
+AK 7.62x39 X Products X-47 50-round drum magazine
+AK-74 5.45x39 6L31 60-round magazine
+AK-74 Hexagon Wafflemaker 5.45x39 sound suppressor
+AK AKademia Bastion dust cover
+AK CSS knurled charging handle
+AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip
+AK GP-25 accessory kit recoil pad
+AK Hexagon Reactor 5.45x39 muzzle brake
+AK Vezhlivyy Strelok VS-24 + VS-33c handguard & gas tube combo
+AK Zenit PT-3 "Klassika" stock
+AK Zenit RK-3 pistol grip
+AKM/AK-74 Magpul Zhukov-S stock
+AKS-74/AKS-74U Zenit PT Lock
+AKS-74U CAA XRSU47SU tactical handguard
+AR-10 7.62x51 Magpul PMAG 20 SR-LR GEN M3 20-round magazine
+AR-10 JP Enterprises Gas System-6
+AR-10 KAC ambidextrous charging handle
+AR-10 KAC QDC 7.62x51 Muzzle Brake Kit
+AR-15 5.56x45 260mm barrel
+AR-15 Aeroknox AX-15 5.56x45 upper receiver
+AR-15 Ballistic Advantage Lo-Pro Gas Block
+AR-15 Griffin Armament Gate-LOK Hammer 5.56x45 flash hider
+AR-15 Griffin Armament M4SD-K 5.56x45 sound suppressor
+AR-15 Hanson Carbine 5.56x45 13.7 inch barrel
+AR-15 Hanson Carbine 5.56x45 16 inch barrel
+AR-15 HK Ergo PSG-1 style pistol grip
+AR-15 Naroh Arms GRAL-S pistol grip
+AR-15 Radian Weapons Raptor charging handle
+AR-15 Radian Weapons Raptor charging handle (Grey)
+AR-15 SAI 10 inch QD Rail handguard
+AR-15 SAI 14.5 inch QD Rail handguard
+AR-15 Vltor MUR-1S 5.56x45 upper receiver
+Burris FullField TAC30 1-4x24 30mm riflescope
+CMMG Mk47 Mutant 7.62x39 assault rifle
+Colt M4A1 5.56x45 assault rifle
+DVL-10 7.62x51 10-round magazine
+DVL-10 7.62x51 500mm barrel
+DVL-10 7.62x51 muzzle device
+EOTech Vudu 1-6x24 30mm riflescope
+EOTech XPS3-2 holographic sight
+FN Five-seveN MK2 5.7x28 pistol
+FN P90 5.7x28 submachine gun
+Geissele Super Precision 30mm ring scope mount
+Geissele Super Precision 30mm ring scope mount (DDC)
+Geissele Super Precision top ring cap
+Geissele Super Precision top ring cap (DDC)
+Glock 18C 9x19 machine pistol
+Harris HBR Bipod
+HK 416A5 5.56x45 assault rifle
+HK MP7 4.6x30 40-round magazine
+HK MP7A2 4.6x30 submachine gun
+KAC Folding Micro rear sight
+KAC Folding front sight
+KAC PRS/QDC 7.62x51 sound suppressor
+Kalashnikov AK-74N 5.45x39 assault rifle
+Kalashnikov AKS-74UB 5.45x39 assault rifle
+Knight's Armament Company SR-25 7.62x51 marksman rifle
+Lobaev Arms 30mm scope mount
+Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle
+M700 7.62x51 Magpul PMAG AC 10-round magazine
+M700 7.62x51 Magpul PMAG AC 5-round magazine
+M700 AB Arms MOD*X GEN 3 chassis
+M700 AB Arms MOD*X GEN 3 Keymod handguard
+M700 AB Arms MOD*X rail mount
+Magpul M-LOK 2.5 inch rail
+Magpul M-LOK 4.1 inch rail
+Magpul M-LOK Cantilever Mount
+Magpul MBUS Gen2 flip-up front sight (FDE)
+Magpul MBUS Gen2 flip-up rear sight (FDE)
+Magpul MOE Carbine rubber buttpad
+Magpul MOE Carbine stock (Black)
+Magpul MOE Carbine stock (FDE)
+Magpul MOE Carbine stock (Foliage Green)
+Magpul MOE Carbine stock (Olive Drab)
+Magpul MOE Carbine stock (Stealth Gray)
+MP-155 12ga semi-automatic shotgun
+MP-155 Ultima medium recoil pad
+MP-155 Ultima pistol grip
+MP-155 Ultima polymer forestock
+MP-155 Ultima polymer stock
+MP-155 Ultima top rail
+NPP KlASS Condor glasses
+R11 RSASS handguard
+Remington R11 RSASS 7.62x51 marksman rifle
+Remington RAHG 2 inch rail
+Remington RAHG 4 inch rail
+Rifle Dynamics RD-704 7.62x39 assault rifle
+Schmidt & Bender PM II 1-8x24 30mm riflescope
+SilencerCo Salvo 12 12ga sound suppressor
+SilencerCo Salvo 12 choke adapter
+Springfield Armory M1A 7.62x51 rifle
+Stark SE-5 Express Forward foregrip
+Steiner DBAL-PL tactical device
+Strike Industries Advanced Receiver Extension buffer tube (Anodized Red)
+Strike Industries KeyMod 6 inch rail
+Tromix Monster Claw 12ga muzzle brake
+Valday PS-320 1/6x scope
+Vltor CASV KeyMod 2 inch rail
+Vortex Razor HD Gen.2 1-6x24 30mm riflescope
+Zenit RK-1 tactical foregrip on B-25U mount
+Zenit RK-2 tactical foregrip
+Apollo Soyuz cigarettes
+Bolts
+Corrugated hose
+Duct tape
+Metal spare parts
+Pack of nails
+Pack of screws
+Screw nuts
+==================================================
+==================================================

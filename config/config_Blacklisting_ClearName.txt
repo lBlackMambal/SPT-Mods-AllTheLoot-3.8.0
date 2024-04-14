@@ -1,0 +1,358 @@
+==================================================
+-- Drawer --
+6-STEN-140-M military battery
+Advanced current converter
+Analog thermometer
+BEAR Buddy plush toy
+Body armor repair kit
+Car battery
+Corrugated hose
+CPU fan
+Cyclon rechargeable battery
+DVD drive
+Electric motor
+Far-forward GPS Signal Amplifier Unit
+FP-100 filter absorber
+Graphics card
+Iridium military thermal vision module
+Machinery key
+Microcontroller board
+Military cable	
+Military circuit board
+Military COFDM Wireless Signal Transmitter
+Military corrugated tube
+Military gyrotachometer
+Military power filter
+OFZ 30x160mm shell
+Pack of Arseniy buckwheat
+PC CPU
+Phased array element
+Power supply unit
+Press pass (issued for NoiceGuy)
+Pressure gauge
+Printed circuit board
+Radiator helix
+Radio repeater
+RAM
+Shustrilo sealing foam
+Silicone tube
+UHF RFID Reader
+Virtex programmable processor
+VPX Flash Storage Module
+Water filter
+Weapon repair kit
+Xenomorph sealing foam
+==================================================
+-- Cash Register --
+Dollars
+Euros
+==================================================
+-- PC Block --
+==================================================
+-- Jacket --
+42 Signature Blend English
+6-STEN-140-M military battery
+Analog thermometer
+Aramid fiber fabric
+BEAR Buddy plush toy
+Car battery
+Cordura polyamide fabric
+Corrugated hose
+Cyclon rechargeable battery
+Expeditionary fuel tank	
+Fierce Blow sledgehammer
+Fleece fabric
+FP-100 filter absorber
+Hand drill
+Machinery key
+Metal fuel tank
+Military corrugated tube
+OFZ 30x160mm shell
+Pack of Arseniy buckwheat
+Pressure gauge
+Propane tank (5L)
+Radiator helix
+Ripstop fabric
+Set of files "Master"
+Shustrilo sealing foam
+Water filter
+Weapon parts
+Xenomorph sealing foam
+==================================================
+-- Toolbox --
+6-STEN-140-M military battery
+Advanced current converter
+Broken GPhone X smartphone
+CPU fan
+Damaged hard drive
+DVD drive
+Far-forward GPS Signal Amplifier Unit
+FP-100 filter absorber
+Golden 1GPhone smartphone
+Graphics card
+Metal fuel tank
+Microcontroller board
+Military circuit board
+Military COFDM Wireless Signal Transmitter
+Military gyrotachometer
+PC CPU
+Power supply unit
+Printed circuit board
+RAM
+Tetriz portable game console
+UHF RFID Reader
+VPX Flash Storage Module
+Virtex programmable processor
+==================================================
+-- Medcase --
+==================================================
+-- Safe --
+==================================================
+-- Weaponbox 5x5 --
+T-7 Thermal Goggles with a Night Vision mount
+==================================================
+-- Weaponbox 5x2 --
+Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+FN40GL Mk2 40mm grenade launcher
+GPNVG-18 Night Vision goggles
+Milkor M32A1 MSGL 40mm grenade launcher
+T-7 Thermal Goggles with a Night Vision mount
+Trijicon REAP-IR thermal scope
+==================================================
+-- Sportsbag --
+Advanced current converter
+Advanced Electronic Materials textbook
+Far-forward GPS Signal Amplifier Unit
+Microcontroller board
+Military COFDM Wireless Signal Transmitter
+Silicon Optoelectronic Integrated Circuits textbook
+TerraGroup "Blue Folders" materials
+==================================================
+-- Weaponbox 6x3 --
+T-7 Thermal Goggles with a Night Vision mount
+==================================================
+-- Weaponbox 4x4 --
+Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+FN40GL Mk2 40mm grenade launcher
+GPNVG-18 Night Vision goggles
+Milkor M32A1 MSGL 40mm grenade launcher
+T-7 Thermal Goggles with a Night Vision mount
+Trijicon REAP-IR thermal scope
+==================================================
+-- Grenadebox --
+==================================================
+-- Plastic Suitcase --
+Advanced current converter
+Far-forward GPS Signal Amplifier Unit
+Microcontroller board
+Military COFDM Wireless Signal Transmitter
+==================================================
+-- Medbag SMU06 --
+==================================================
+-- Wooden Crate --
+Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+FN40GL Mk2 40mm grenade launcher
+GPNVG-18 Night Vision goggles
+Milkor M32A1 MSGL 40mm grenade launcher
+T-7 Thermal Goggles with a Night Vision mount
+Trijicon REAP-IR thermal scope
+==================================================
+-- Medical Supply Crate --
+==================================================
+-- Technical Supply Crate --
+Advanced current converter
+Broken GPhone X smartphone
+CPU fan
+Damaged hard drive
+DVD drive
+Far-forward GPS Signal Amplifier Unit
+Golden 1GPhone smartphone
+Graphics card
+Microcontroller board
+Military COFDM Wireless Signal Transmitter
+Military gyrotachometer
+PC CPU
+Power supply unit
+Printed circuit board
+RAM
+Tetriz portable game console
+UHF RFID Reader
+VPX Flash Storage Module
+Virtex programmable processor
+==================================================
+-- Dead Scav --
+Advanced current converter
+Advanced Electronic Materials textbook
+Far-forward GPS Signal Amplifier Unit
+Microcontroller board
+Silicon Optoelectronic Integrated Circuits textbook
+TerraGroup "Blue Folders" materials
+==================================================
+-- Ground Cache --
+Advanced current converter
+==================================================
+-- Burried Barrel Cache --
+Advanced current converter
+==================================================
+-- Wooden Ammobox --
+==================================================
+-- Jacket Dorms 114 --
+Analgin painkillers
+Augmentin antibiotic pills
+Ibuprofen painkillers
+==================================================
+-- Jacket Machinery Key --
+==================================================
+-- Ration Supply Crate --
+Canister with purified water
+==================================================
+-- Jacket Dorms 204 --
+42 Signature Blend English
+6-STEN-140-M military battery
+Analog thermometer
+Aramid fiber fabric
+BEAR Buddy plush toy
+Car battery
+Cordura polyamide fabric
+Corrugated hose
+Cyclon rechargeable battery
+Expeditionary fuel tank	
+Fierce Blow sledgehammer
+Fleece fabric
+FP-100 filter absorber
+Machinery key
+Metal fuel tank
+Military corrugated tube
+OFZ 30x160mm shell
+Pack of Arseniy buckwheat
+Pressure gauge
+Propane tank (5L)
+Radiator helix
+Ripstop fabric
+Set of files "Master"
+Shustrilo sealing foam
+Water filter
+Weapon parts
+Xenomorph sealing foam
+==================================================
+-- Common Fund Stash --
+==================================================
+-- Cash Register TAR --
+Dollars
+Euros
+==================================================
+-- Bank Cash Register --
+==================================================
+-- Bank Safe --
+==================================================
+-- PMC Body
+Advanced current converter
+Advanced Electronic Materials textbook
+Far-forward GPS Signal Amplifier Unit
+Microcontroller board
+Silicon Optoelectronic Integrated Circuits textbook
+TerraGroup "Blue Folders" materials
+==================================================
+-- Dead Civilian
+Analog thermometer
+Corrugated hose
+FP-100 filter absorber
+Gas mask air filter
+KEKTAPE duct tape
+Military corrugated tube
+OFZ 30x160mm shell
+Paracord
+Press pass (issued for NoiceGuy)
+Pressure gauge
+Shustrilo sealing foam
+Tube of Poxeram cold welding
+UZRGM grenade fuze
+Water filter
+Weapon parts
+Xenomorph sealing foam
+==================================================
+-- Scav Body
+==================================================
+-- Lab Technician Body
+==================================================
+-- Global --
+12.7x108mm B-32
+12.7x108mm BZT-44M
+5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (FDE) - Airsoft Version
+6B13 M modified assault armor (Tan)
+Airsoft 6mm BB
+Alpha Armband
+Armband (Blue)
+Armband (Green)
+Armband (Red)
+Armband (White)
+Armband (Yellow)
+Balaclava_dev
+Bars A-2607 Damascus knife
+Bars A-2607 95Kh18 knife
+Big Pipe's bandana
+Big Pipe's smoking pipe
+BOSS cap
+Christmas tree ornament (Red)
+Christmas tree ornament (Silver)
+Christmas tree ornament (Violet)
+Crye Precision AVS plate carrier (Tagilla Edition)
+Crye Precision CPC plate carrier (Goons Edition)
+Cultist knife
+Customs plan map
+DEADSKUL armband
+Death Knight mask
+Ded Moroz hat
+Digital secure DSP radio transmitter
+Dogtag BEAR
+Dogtag USEC
+EYE MK.2 professional hand-held compass
+Fake white beard
+GK-01 12ga compensator
+GP-34 40mm underbarrel grenade launcher
+Interchange plan map
+Jack-o'-lantern tactical pumpkin helmet
+KAC QDC 6.5x35 sound suppressor
+Kalashnikov PKM 7.62x54R machine gun
+Kalashnikov PKP 7.62x54R infantry machine gun
+Kiba Arms armband
+LBT-1961A Load Bearing Chest Rig (Goons Edition)
+M67 Shrapnel
+Maska-1SCh bulletproof helmet (Killa)
+Master hand
+MON-50 Shrapnel
+Motor Controller #1
+Mystery Ranch NICE COMM 3 BVS frame system
+PAG-17 scope
+Pumpkin with sweets
+Radio repeater
+RGD-5 Shrapnel
+S&S Precision PlateFrame plate carrier (Goons Edition)
+Sanitar's bag
+Santa hat
+Shrapnel
+SilencerCo Sparrow 22 sound suppressor
+Shoreline Health Resort plan map
+Shoreline plan map	
+Shturman's stash key
+Single-axis Fiber Optic Gyroscope #1
+Tagilla's welding mask "Gorilla"
+Tagilla's welding mask "UBEY"
+Train Hard armband
+Trophy
+TT-33 7.62x25 TT pistol (Golden)
+Unknown key
+UNTAR Armband
+Woods plan map
+Zryachiy's balaclava
+Zryachiy's balaclava (folded)
+Guilded Key Storage - Golden Keychain Mk. I
+Guilded Key Storage - Golden Keychain Mk. II
+Guilded Key Storage - Golden Keychain Mk. III
+Guilded Key Storage - Golden Keycard Holder
+Guilded Key Storage - Secure Key Box
+==================================================
+==================================================
